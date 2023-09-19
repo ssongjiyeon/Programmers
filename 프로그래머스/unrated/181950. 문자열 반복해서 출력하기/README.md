@@ -1,10 +1,10 @@
 # [unrated] 문자열 반복해서 출력하기 - 181950 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181950) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181950?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 68.6 MB, 시간: 130.78 ms
+메모리: 46.5 MB, 시간: 195.72 ms
 
 ### 구분
 
